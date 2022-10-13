@@ -3,7 +3,7 @@
 
 
 先装修复社区插件,再装同步到onedrive的插件,再装统一链接插件
-下载地址https://github.com/wdgitgub/obsidian-setting-pluggin.git
+我建的下载地址https://github.com/wdgitgub/obsidian-setting-pluggin.git
 
 先装修复社区插件
 
@@ -11,7 +11,7 @@ obsidian community plugin
 obsidian社区插件下载修复，连接到插件库的插件
 因为某些原因，在国内经常无法下载 Obsidian 的社区插件。这个obsidian社区插件下载修复项目的主要目的就是修复这种情况，让国内的用户也可以无障碍的下载社区插件
 下载 obsidian-proxy-github.zip
-下载地址2 https://github.com/juqkai/obsidian-proxy-githubgithub.com/juqkai/obsidian-proxy-github
+别人给的下载地址2 https://github.com/juqkai/obsidian-proxy-githubgithub.com/juqkai/obsidian-proxy-github
 解压 obsidian-proxy-github.zip
 将解压的文件夹放入笔记目录下的插件目录内。如：XXX/.obsidian/plugins
 
