@@ -2,6 +2,9 @@
 库名 obsidian-setting-pluggin
 
 
+先装修复社区插件,再装同步到onedrive的插件,再装统一链接插件
+下载地址https://github.com/wdgitgub/obsidian-setting-pluggin.git
+
 先装修复社区插件
 
 obsidian community plugin
