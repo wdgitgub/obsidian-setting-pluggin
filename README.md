@@ -1,3 +1,7 @@
+
+库名 obsidian-setting-pluggin
+
+
 先装修复社区插件
 
 obsidian community plugin
