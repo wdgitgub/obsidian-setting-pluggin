@@ -17,13 +17,13 @@ obsidian社区插件下载修复，连接到插件库的插件
 
 再装同步到onedrive的插件
 
-obsidian remotely save plugin
+**remotely save** plugin
 remotely save同步到onedrive的插件
 
 再装统一链接插件
 
-obsidian links plugin
-Consistent attachments and links 一键让所有链接按MD格式 【设置成alt e】【 把Replace all wikilinks with markdown links设置成alt e】
+
+**Consistent attachments and links** 一键让所有链接按MD格式 【设置成alt e】【 把Replace all wikilinks with markdown links设置成alt e】
 
 设置》快捷键》
 
